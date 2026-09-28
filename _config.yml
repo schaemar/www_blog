@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Martin Schaefer
 tagline:          'personal web'
-description:      'Hi! You can also check my <a href="https://www.linkedin.com/in/martin-schaefer-251a8741" target="_blank">LinkedIn</a>, read about our research <a href="http://sum.fel.cvut.cz">projects at CTU </a> or tweet me <a href="https://twitter.com/schaefer_cz" target="_blank">@schaefer_cz</a>.'
+description:      'AI consultant and programmer. You can find me on <a href="https://www.linkedin.com/in/martin-schaefer-251a8741" target="_blank">LinkedIn</a>.'
 url:              https://schaefer.cz/
 baseurl:          https://schaefer.cz/
 
