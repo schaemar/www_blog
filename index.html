@@ -3,29 +3,9 @@ layout: default
 title: Home
 ---
 
-<p class="message">Hi!
-  If you are interested in anything you find here, feel free to let me know!
-  I appreciate your feedback, suggestion or whatever else you would like to share with me martin.schaefer [at] fel.cvut.cz! </p>
-<br>
-<br>
-
-<!--<h1>Latest post</h1>-->
-
-<div class="posts">
-  {% for post in paginator.posts limit:3%}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.content }}
-  </div>
-  {% endfor %}
-  <a href="{{ side.baseurl }}posts">Other posts</a>
-
+<div class="page">
+  <h1 class="page-title">Hi, I'm Martin.</h1>
+  <p>I'm Martin Schaefer, an AI consultant and programmer based in Prague. I help organizations put AI and computational optimization into practice. I've worked in university research, startups and larger technology teams, and I still enjoy writing code.</p>
+  <p>You can reach me on <a href="https://www.linkedin.com/in/martin-schaefer-251a8741">LinkedIn</a> or browse my work on <a href="https://github.com/schaemar">GitHub</a>.</p>
+  <p>Earlier writing is available in the <a href="{{ site.baseurl }}posts">archive</a>.</p>
 </div>
-
