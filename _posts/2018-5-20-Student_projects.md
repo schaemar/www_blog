@@ -14,6 +14,6 @@ The next semester, the students have software/research project course. The goal 
 
 ![Illustration - Traffic in Prague]({{ site.baseurl }}public/img/prague.png)
 
-If you would like to collaborate on some of the topics or you just have some comments, let me know: martin.schaefer at fel.cvut.cz!
+If you would like to collaborate on some of the topics or you just have some comments, let me know: martin (at) schaefer.cz!
 
 
