@@ -31,4 +31,4 @@ Od fakulty si přeji **vstřícnost** ke studentům a **profesionální servis**
 
 V senátu bych podporoval směřování FELu v tomto duchu.
 
-**martin.schaefer@fel.cvut.cz, @schaefer_cz, schaefer.cz**
+**martin.schaefer@fel.cvut.cz, schaefer.cz**
